@@ -1,6 +1,9 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "type": "module",
   "main": "server.js",
   "scripts": {
